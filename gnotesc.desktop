@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gnotesc
+Comment=A simple GTK Notepad
+Exec=/usr/share/gnotesc %U
+MimeType=text/plain;
+Icon=org.gnome.gedit
+Categories=GTK;TextEditor;
